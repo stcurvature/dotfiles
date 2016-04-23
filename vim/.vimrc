@@ -1,5 +1,5 @@
 " 
-" Karthi's personal vimrc file
+" Personal vimrc file
 " 
 
 
