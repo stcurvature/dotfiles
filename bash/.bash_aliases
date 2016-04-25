@@ -3,3 +3,4 @@
 alias py=python3
 alias cls=clear
 alias wspace="cd ~/workspace"
+alias w=wspace
